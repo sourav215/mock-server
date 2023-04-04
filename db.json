@@ -1,3 +1,52 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "title": "Read",
+      "description": " It looks like there is another syntax error in the URL you provided. The user parameter needs to be prefixed with a question mark (?) to indicate the start of the query string.",
+      "duedate": "2023-04-26T16:20",
+      "status": "open",
+      "timestamp": "2023-04-04 23:20:16",
+      "id": 1
+    },
+    {
+      "title": "Eat",
+      "description": " It looks like there is another syntax error in the URL you provided. The user parameter needs to be prefixed with a question mark (?) to indicate the start of the query string.",
+      "duedate": "2023-03-01T20:20",
+      "status": "done",
+      "timestamp": "2023-04-04 23:20:59",
+      "id": 3
+    },
+    {
+      "title": "Eat",
+      "description": " It looks like there is another syntax error in the URL you provided. The user parameter needs to be prefixed with a question mark (?) to indicate the start of the query string.",
+      "duedate": "2023-03-01T20:20",
+      "status": "done",
+      "timestamp": "2023-04-04 23:21:00",
+      "id": 4
+    },
+    {
+      "title": "Eat",
+      "description": " It looks like there is another syntax error in the URL you provided. The user parameter needs to be prefixed with a question mark (?) to indicate the start of the query string.",
+      "duedate": "2023-03-01T20:20",
+      "status": "done",
+      "timestamp": "2023-04-04 23:21:00",
+      "id": 5
+    },
+    {
+      "title": "Eat",
+      "description": " It looks like there is another syntax error in the URL you provided. The user parameter needs to be prefixed with a question mark (?) to indicate the start of the query string.",
+      "duedate": "2023-03-01T20:20",
+      "status": "done",
+      "timestamp": "2023-04-04 23:21:00",
+      "id": 6
+    },
+    {
+      "title": "walk",
+      "description": " walk",
+      "duedate": "2023-03-29T12:52",
+      "status": "working",
+      "timestamp": "2023-04-04 23:52:43",
+      "id": 7
+    }
+  ]
 }
